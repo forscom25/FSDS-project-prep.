@@ -22,3 +22,5 @@ time.sleep(5)
 
 # Places the vehicle back at it's original position
 client.reset()
+
+# link check
